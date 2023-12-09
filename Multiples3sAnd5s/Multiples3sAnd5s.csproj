@@ -5,6 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Multiples3sAnd5s.FibonacciEvenSum</StartupObject>
   </PropertyGroup>
 
 </Project>
